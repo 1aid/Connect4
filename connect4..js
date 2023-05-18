@@ -8,7 +8,7 @@ class ConnectFour {
       this.columnTop = null;
   
       this.makeBoard();
-      this.makeHtmlBoard();
+      this.makeHtmlBoard(); 
     }
   
     /** makeBoard: create in-JS board structure */
